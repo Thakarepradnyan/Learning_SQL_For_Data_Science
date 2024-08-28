@@ -1,0 +1,6 @@
+In Day 1 I learned -
+How to install MySQL server and MySQL Workbanch software into our local system to interact with Databases we create.
+Familiarized with the interface of MySQL Workbench software. Known about what is schemas and Database structures.
+Learned about the very basic SQL commands used to create Databases, drop / delete Databases, Creating Tables into Databases, Adding / deleting data (Records) from Tables.
+Learned how to add comments lines (Single line, Multi Line Comments) in SQL Scripts.
+Learned how to view all databases, tables and rows from Databases.
